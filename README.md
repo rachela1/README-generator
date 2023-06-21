@@ -12,7 +12,7 @@ This app is made to easily create your README for your own apps quickly and easi
 
 ## Usage
 
-Here is a quick video demo: 
+[Here](https://drive.google.com/file/d/1UDEsHXW4uIW9v8k1VNXihh4MtwHWARrj/view?usp=drive_link) is a quick video demo
 
 Go to your terminal and type node index.js. A series of prompts will allow you to fill out your README information. At the end of the questions your README file will be generated into the output folder!
 
