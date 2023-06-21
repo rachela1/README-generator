@@ -58,13 +58,8 @@ const questions = [
     },
     {
         type:'input',
-        message:'Email (name with @ only)',
+        message:'Email',
         name:'email',
-    },
-    {
-        type:'input',
-        message:'host site of email',
-        name:'prefCom',
     },
 ];
 
