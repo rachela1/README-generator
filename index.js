@@ -14,11 +14,6 @@ const questions = [
     },
     {
         type:'input',
-        message:'Table of Contents of README',
-        name:'tableOfContents'
-    },
-    {
-        type:'input',
         message:'Description of app',
         name:'description',
     },
@@ -29,18 +24,47 @@ const questions = [
     },
     {
         type:'input',
+        message:'Usage of app',
+        name:'use',
+    },
+    {
+        type:'checkbox',
+        message:'Licenses',
+        choices: [
+            { name: "MIT", value: "MIT" },
+            { name: "ISC", value: "ISC" },
+            { name: "Mozilla", value: "Mozilla" },
+            { name: "Apache", value: "Apache" },
+            { name: "EPL", value: "EPL" },
+            { name: "WTFPL", value: "WTFPL" },
+            { name: "None", value: "none" },
+          ],
+        name:'licenses'
+    },
+    {
+        type:'input',
         message:'Contributions to app',
         name:'contributions',
     },
     {
         type:'input',
-        message:'Tests',
+        message:'Tests that have been ran',
         name:'tests',
     },
     {
         type:'input',
-        message:'questions(contact info for consumer questions',
-        name:'questions',
+        message:'GitHub name',
+        name:'gitHubName',
+    },
+    {
+        type:'input',
+        message:'Email (name with @ only)',
+        name:'email',
+    },
+    {
+        type:'input',
+        message:'host site of email',
+        name:'prefCom',
     },
 ];
 
