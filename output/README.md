@@ -1,36 +1,37 @@
 
   # Title
-    readme
+    this is the title of the app
 
   ## Table of Contents
 
-    - [Installation](#installation)
-    - [Usage](#usage)  
-    - [License](#licenses)
-    - [Contributing](#contributing)
-    - [Tests](#tests)
-    - [Questions](#questions)
+  - [Description](#Description)
+  - [Installation](#Installation)
+  - [Usage](#Usage)
+  - [Contributing](#Contributing)
+  - [Tests](#Tests)
+  - [License](#License)
+  - [Questions](#Questions)
 
 
   ## Description
-  readme generator
+  this is the description
 
   ## Installation
-  n/a
+  this is the installation instructions
 
   ## Usage
-  n/a
+  this is how to use the app
 
   
   ## License
     
-This app is licensed under the  license.
+This app is licensed under the [Apache 2.0](https://opensource.org/licenses/Apache-2.0) license.
    
   ## Contributing
-  none  
+  these are the contributions  
 
   ## Tests
-  3
+  these are the tests that have been ran
   
   ## Questions 
   GitHub: [name](https://github.com/name) 

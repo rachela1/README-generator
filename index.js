@@ -28,7 +28,7 @@ const questions = [
         name:'use',
     },
     {
-        type:'checkbox',
+        type:'list',
         message:'Licenses',
         choices: [
             { name: "MIT", value: "MIT" },
@@ -39,7 +39,7 @@ const questions = [
             { name: "WTFPL", value: "WTFPL" },
             { name: "None", value: "none" },
           ],
-        name:'licenses'
+        name:'license'
     },
     {
         type:'input',

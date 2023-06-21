@@ -48,12 +48,13 @@ function generateMarkdown(data) {
 
   ## Table of Contents
 
-    - [Installation](#installation)
-    - [Usage](#usage)  
-    - [License](#licenses)
-    - [Contributing](#contributing)
-    - [Tests](#tests)
-    - [Questions](#questions)
+  - [Description](#Description)
+  - [Installation](#Installation)
+  - [Usage](#Usage)
+  - [Contributing](#Contributing)
+  - [Tests](#Tests)
+  - [License](#License)
+  - [Questions](#Questions)
 
 
   ## Description
@@ -66,7 +67,7 @@ function generateMarkdown(data) {
   ${data.use}
 
   
-  ${renderLicenseSection(data.licenses)}
+  ${renderLicenseSection(data.license)}
    
   ## Contributing
   ${data.contributions}  
